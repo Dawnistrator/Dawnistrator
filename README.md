@@ -42,11 +42,15 @@ const dawn = {
   <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github,vscode&theme=dark" alt="Backend and tooling stack" />
 </p>
 
+<div align="center">
+
 | Interface | Backend and data | Workflow |
-| :-- | :-- | :-- |
+| :---: | :---: | :---: |
 | Astro, Next.js 15, React 19 | Supabase, PostgreSQL | AI-assisted coding |
 | TypeScript, Tailwind CSS | Drizzle ORM, Neon | Gemini, Antigravity, ORCA ADE |
 | Material Design 3, Motion | Row Level Security, REST APIs | Git, GitHub, Vercel |
+
+</div>
 
 ---
 
