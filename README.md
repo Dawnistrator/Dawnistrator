@@ -1,83 +1,23 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C52FF,100:141218&height=220&section=header&text=DWNVRS&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Dawn%20%C2%B7%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="DWNVRS header" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dawnistrator">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1200&color=8C52FF&center=true&vCenter=true&width=640&lines=Full-stack+apps+and+websites%2C+built+with+AI.;Astro+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+Postgres;Shipping+on+Vercel%2C+one+commit+at+a+time." alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://dawnverse.vercel.app"><img src="https://img.shields.io/badge/DAWNVERSE-Live-8C52FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141218" alt="DAWNVERSE live" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Dawnistrator&style=for-the-badge&color=8C52FF&label=Profile+views" alt="Profile views" />
-</p>
-
----
-
-### Hi, I'm Dawn
-
-I build apps and websites using artificial intelligence. I'm a vibecoder who blends product vision, design aesthetics, and AI to ship functional, modern digital products under the name **DWNVRS**.
-
-My focus is keeping pages fast in the browser, moving sensitive work to the server, and backing every project with clear data models and access rules.
-
-```ts
-const dawn = {
-  brand: "DWNVRS",
-  role: "Full-Stack Web Developer",
-  focus: "Apps & websites",
-  workflow: "AI-assisted (Gemini, Antigravity, ORCA ADE)",
-  stack: ["Astro", "Next.js 15", "React", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL"],
-  shipsTo: "Vercel",
-};
-```
-
----
-
-### Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,nextjs,react,ts,tailwind,nodejs&theme=dark" alt="Interface stack" /><br />
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,git,github,vscode&theme=dark" alt="Backend and tooling stack" />
-</p>
-
 <div align="center">
 
-| Interface | Backend and data | Workflow |
-| :---: | :---: | :---: |
-| Astro, Next.js 15, React 19 | Supabase, PostgreSQL | AI-assisted coding |
-| TypeScript, Tailwind CSS | Drizzle ORM, Neon | Gemini, Antigravity, ORCA ADE |
-| Material Design 3, Motion | Row Level Security, REST APIs | Git, GitHub, Vercel |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Dawn"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="26.897%" alt=""></picture><a href="https://instagram.com/dawnistrator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.836%" alt="instagram"></picture></a><a href="https://x.com/eerrixc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="10.814%" alt="x"></picture></a><a href="https://discord.com/users/871735712662315018"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="26.897%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/Dawnistrator/Dawnistrator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dawnistrator-dark.svg"><img src="assets/project-dawnistrator-light.svg" width="49%" alt="Dawnistrator"></picture></a>&nbsp;<a href="https://github.com/Dawnistrator/dwnvrs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dwnvrs-dark.svg"><img src="assets/project-dwnvrs-light.svg" width="49%" alt="dwnvrs"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Dawnistrator?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Dawnistrator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dawnistrator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=141218&title_color=8C52FF&icon_color=8C52FF&text_color=E6E0E9&ring_color=8C52FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawnistrator&layout=compact&langs_count=6&hide_border=true&bg_color=141218&title_color=8C52FF&text_color=E6E0E9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dawnistrator&hide_border=true&background=141218&ring=8C52FF&fire=8C52FF&currStreakLabel=8C52FF&sideLabels=E6E0E9&currStreakNum=E6E0E9&sideNums=E6E0E9&dates=938F99&stroke=2B2930" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dawnistrator&bg_color=141218&color=E6E0E9&line=8C52FF&point=E6E0E9&area=true&area_color=8C52FF&hide_border=true" alt="Contribution graph" width="100%" />
-</p>
-
----
-
-### Working on now
-
-- Multi-item cart for DAWNVERSE, so one invoice can hold several piloting packages
-- More case studies and favorites on the DWNVRS portfolio
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141218,100:8C52FF&height=120&section=footer" alt="Footer" width="100%" />
-</p>
