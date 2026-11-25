@@ -1,37 +1,42 @@
 {
   "version": 1,
   "login": "Dawnistrator",
-  "seed": "#D6C9B5",
+  "seed": "#796F61",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
+    "buttons",
     "about",
     "stack",
     "projects",
+    "wave",
+    "socials",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "socials",
     "stats",
     "streak",
-    "wave",
-    "buttons"
+    "projects"
   ],
-  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Dawn",
     "subtitle": "I build Website Using Material Design.",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Indonesia"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "TypeScript · Astro · Tailwind"
       }
     ]
   },
@@ -40,7 +45,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Developer AI Assisted"
+        "label": "Developer"
       },
       {
         "icon": "code",
@@ -48,7 +53,7 @@
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Material Design"
       }
     ]
   },
@@ -76,16 +81,16 @@
         "title": "Tools",
         "items": [
           {
+            "icon": "brand:googlegemini",
+            "label": "Antigravity"
+          },
+          {
             "icon": "brand:git",
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:vercel",
+            "label": "Vercel"
           }
         ]
       }
@@ -144,7 +149,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://dawnverse.my.id",
         "style": "filled"
       },
       {
